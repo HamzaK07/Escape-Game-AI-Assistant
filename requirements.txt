@@ -1,0 +1,6 @@
+streamlit as st
+os
+audio_recorder_streamlit 
+openai 
+dotenv 
+base64
