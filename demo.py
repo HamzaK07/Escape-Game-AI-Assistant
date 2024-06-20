@@ -1,16 +1,11 @@
 #Libraries importation
 import streamlit as st
-import os
 import base64
-from dotenv import load_dotenv
 from audio_recorder_streamlit import audio_recorder
 from openai import OpenAI
 
-# Loading environment variables from .env file
-load_dotenv()
-
 # Initializing OpenAI API client with API key
-api_key = os.getenv("sk-proj-weSERzrVPNaLTUqoqxgsT3BlbkFJq5XMIcRm0rIlGe0KT1Cs")
+api_key = "sk-proj-weSERzrVPNaLTUqoqxgsT3BlbkFJq5XMIcRm0rIlGe0KT1Cs"
 client = OpenAI(api_key=api_key)
 
 # Function to get a response based on messages using OpenAI's GPT-3.5 model
