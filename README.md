@@ -1,4 +1,4 @@
-<h1 align="center">Project - Escape Game Digital Sobriety</h1>
+<h1 align="center">Project - AI assistant for a Digital Sobriety Escape Game</h1>
 <p align="center">
 <img src="https://i1.wp.com/bestservices.reviews/wp-content/uploads/2019/10/featured-image-chatbots.jpg?resize=1024%2C512&ssl=1" width="1000" height="250"/> <br>
  </p>
