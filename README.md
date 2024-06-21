@@ -30,10 +30,10 @@ The Digital Sobriety Escape Game is an educational experience designed to raise 
 - Interact with the AI assistant to receive hints and guidance in solving puzzles.
 
 ## 🔗   Link
-Click 👉 [here]([lien de la video](https://demoeg-mwashqhxrq-uc.a.run.app/)) to try the AI assistant.
+Click 👉 [here](https://demoeg-mwashqhxrq-uc.a.run.app/)) to try the AI assistant.
 
 
 ## 🎬   Video  
-Click 👉 [here](lien de la video) to see the video.
+Click 👉 [here](https://www.youtube.com/watch?v=PKiS-NSerwg) to watch a demo video of the application.
 
 ## 📙   Sources
