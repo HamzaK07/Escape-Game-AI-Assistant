@@ -15,7 +15,7 @@ The Digital Sobriety Escape Game is an educational experience designed to raise 
 - **Vocal AI Assistant**: Allows players to interact with the AI assistant using voice commands, providing an immersive experience where players can engage by speaking directly to the game. Integration includes both Text to Speech and Speech to Text functionalities, enabling seamless communication and feedback through spoken dialogue.
 
 
-## 🔧   Technologies Used
+## 🔧   Tools employed
 
 - **Streamlit**: Framework used for building the interactive web application.
   
@@ -30,10 +30,17 @@ The Digital Sobriety Escape Game is an educational experience designed to raise 
 - Interact with the AI assistant to receive hints and guidance in solving puzzles.
 
 ## 🔗   Link
-Click 👉 [here](https://demoeg-mwashqhxrq-uc.a.run.app/)) to try the AI assistant.
+Click 👉 [here](https://demoeg-mwashqhxrq-uc.a.run.app/) to try the AI assistant.
 
 
 ## 🎬   Video  
 Click 👉 [here](https://www.youtube.com/watch?v=PKiS-NSerwg) to watch a demo video of the application.
 
 ## 📙   Sources
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/
+https://openai.com/index/chatgpt/
+https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+
+
