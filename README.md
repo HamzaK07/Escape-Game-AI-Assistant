@@ -1,5 +1,8 @@
-
-# Escape Game - Digital Sobriety
+<h1 align="center">Project - Escape Game - Digital Sobriety</h1>
+<p align="center">
+<img src="[https://www.rts.ch/2017/10/10/10/13/8987311.image](https://th.bing.com/th/id/R.fd0d696cb4a0eedbae6a3f8823b389ff?rik=qhA1cJfE1ruhVw&pid=ImgRaw&r=0)" width="1000" height="250"/> <br>
+ </p>
+# 
 
 ## Overview
 
