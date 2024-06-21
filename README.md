@@ -10,10 +10,10 @@ The Digital Sobriety Escape Game is an educational experience designed to raise 
 
 ## 🔨   Methodology for prompt construction
 
-### Use Case Analysis
+### Use case analysis
 I conducted a comprehensive analysis of potential interaction scenarios where players could benefit from the AI assistant. This involved identifying critical points such as navigating through game puzzles, correcting common digital errors, and promoting good digital practices.
 
-### Prompt Formulation
+### Prompt formulation
 Following OpenAI's prompt engineering guidelines, I crafted initial queries and responses designed to foster natural and immersive conversation. Each prompt was  designed to align  with the game's educational objectives, ensuring meaningful interactions with players.
 
 ### Iteration and Optimization
