@@ -1,8 +1,8 @@
-<h1 align="center">Project - Escape Game - Digital Sobriety</h1>
+<h1 align="center">Project - CAA 2024 - Team Nestlé</h1>
 <p align="center">
-<img src="[https://www.rts.ch/2017/10/10/10/13/8987311.image](https://th.bing.com/th/id/R.fd0d696cb4a0eedbae6a3f8823b389ff?rik=qhA1cJfE1ruhVw&pid=ImgRaw&r=0)" width="1000" height="250"/> <br>
+<img src="https://i1.wp.com/bestservices.reviews/wp-content/uploads/2019/10/featured-image-chatbots.jpg?resize=1024%2C512&ssl=1" width="1000" height="250"/> <br>
  </p>
-# 
+
 
 ## Overview
 
