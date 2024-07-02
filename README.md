@@ -50,8 +50,8 @@ Click 👉 [here](https://chatbottest-mwashqhxrq-uc.a.run.app/) to try the AI as
 
 
 ## 🎬   Video  
-Click 👉 [here](https://www.youtube.com/watch?v=PKiS-NSerwg) to watch a demo video of the application.
-Click 👉 [here](https://youtu.be/G4k7_SdTlN4) to watch a demo of the new functionality that integrates image recognition.
+- Click 👉 [here](https://www.youtube.com/watch?v=PKiS-NSerwg) to watch a demo video of the application.
+- Click 👉 [here](https://youtu.be/G4k7_SdTlN4) to watch a demo of the new functionality that integrates image recognition.
 
 
 ## 📙   Sources
