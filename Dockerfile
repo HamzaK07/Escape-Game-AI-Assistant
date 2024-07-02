@@ -14,4 +14,4 @@ EXPOSE 8501
 ENV PORT 8080
 
 # Start the Streamlit app
-CMD ["streamlit", "run", "--server.port", "8080", "demo.py"]
+CMD ["streamlit", "run", "--server.port", "8080", "chatbot.py"]
