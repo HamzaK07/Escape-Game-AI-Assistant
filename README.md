@@ -29,6 +29,7 @@ Prior to the final deployment, a  validation phase was undertaken to assess the 
   
 - **Vocal AI Assistant**: Allows players to interact with the AI assistant using voice commands, providing an immersive experience where players can engage by speaking directly to the game. Integration includes both Text to Speech and Speech to Text functionalities, enabling seamless communication and feedback through spoken dialogue.
 
+- **Image recognition AI Assistant**: Allows players to interact in an immersive way with the game by using real-time captured images. This facilitates puzzle solving and enigma resolution, enabling participants to scan objects, decode symbols, or capture visual clues that can be instantly analyzed by the chatbot.
 
 ## 🔧   Tools employed
 
