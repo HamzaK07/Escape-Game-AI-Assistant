@@ -233,9 +233,9 @@ elif communication_mode == "Image recognition":
     st.markdown("""
 You have the choice between three modes of assistance:
 
-- **Text Assistance**: You can ask your questions and receive written responses directly.
-- **Voice Assistance**: If you prefer a more direct and vocal interaction, you also have this option available.
-- **Image Recognition**: You can take a photo directly from your webcam, and I will help identify and interact with it.
+- **Text assistance**: You can ask your questions and receive written responses directly.
+- **Voice assistance**: If you prefer a more direct and vocal interaction, you also have this option available.
+- **Image recognition**: You can take a photo directly from your webcam, and I will help identify and interact with it.
 
 Feel free to choose the mode that suits you best, and I'll be here to help you make the most of your experience in our Digital Sobriety Escape Game!
 
@@ -293,4 +293,3 @@ Feel free to choose the mode that suits you best, and I'll be here to help you m
             st.write(final_response)
 
 
-# End of code
