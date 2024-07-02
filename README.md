@@ -46,7 +46,7 @@ Prior to the final deployment, a  validation phase was undertaken to assess the 
 - Interact with the AI assistant to receive hints and guidance in solving puzzles.
 
 ## 🔗   Link
-Click 👉 [here](https://demoeg-mwashqhxrq-uc.a.run.app/) to try the AI assistant.
+Click 👉 [here](https://chatbottest-mwashqhxrq-uc.a.run.app/) to try the AI assistant.
 
 
 ## 🎬   Video  
