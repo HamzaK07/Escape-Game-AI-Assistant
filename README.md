@@ -48,12 +48,6 @@ Prior to the final deployment, a  validation phase was undertaken to assess the 
 ## 🔗   Link
 Click 👉 [here](https://chatbottest-mwashqhxrq-uc.a.run.app/) to try the AI assistant.
 
-
-## 🎬   Video  
-- Click 👉 [here](https://www.youtube.com/watch?v=PKiS-NSerwg) to watch a demo video of the application.
-- Click 👉 [here](https://youtu.be/G4k7_SdTlN4) to watch a demo of the new functionality that integrates image recognition.
-
-
 ## 📙   Sources
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/
