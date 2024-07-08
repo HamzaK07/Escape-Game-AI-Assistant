@@ -10,7 +10,7 @@ import requests
 from io import BytesIO
 
 # Initializing OpenAI API client with API key
-api_key = "sk-proj-weSERzrVPNaLTUqoqxgsT3BlbkFJq5XMIcRm0rIlGe0KT1Cs"
+api_key = "YOUR_OPENAI_KEY"
 client = OpenAI(api_key=api_key)
 
 # Load TensorFlow Hub model for image recognition
