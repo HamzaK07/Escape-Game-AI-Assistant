@@ -5,7 +5,7 @@ from audio_recorder_streamlit import audio_recorder
 from openai import OpenAI
 
 # Initializing OpenAI API client with API key
-api_key = "sk-proj-weSERzrVPNaLTUqoqxgsT3BlbkFJq5XMIcRm0rIlGe0KT1Cs"
+api_key = "YOUR_OPENAI_KEY"
 client = OpenAI(api_key=api_key)
 
 # Function to get a response based on messages using OpenAI's GPT-3.5 model
